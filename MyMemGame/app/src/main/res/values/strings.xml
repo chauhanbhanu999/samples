@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMemGame</string>
+    <string name="permission_required">Mem game needs permission to store data</string>
+    <string name="ok">OK</string>
+</resources>
