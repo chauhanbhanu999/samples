@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "181615754536",
+    "project_id": "mysocialapp1-7240d",
+    "storage_bucket": "mysocialapp1-7240d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181615754536:android:75e0600eaba166e481a41d",
+        "android_client_info": {
+          "package_name": "com.bhanu.mysocialapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181615754536-d7ela7ffghdl985tlikmc0q6jlgohfpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQqLETEft6G0evCr9Wa2buT6yIGe-hk80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181615754536-d7ela7ffghdl985tlikmc0q6jlgohfpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
